@@ -24,3 +24,6 @@ To aid people with accessing PeteZah-Next, we created a Discord bot which can be
 - PZN PZM: PeteZah-Next PeteMusic
 - LS: LightSpeed
 - GG: GoGuardian
+- UV: Ultravioet
+- SJ: Scramjet
+- TN: Titanium Network
