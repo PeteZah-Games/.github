@@ -22,6 +22,7 @@ To aid people with accessing PeteZah-Next, we created a Discord bot which can be
 - PZN: PeteZah-Next
 - PM/PZM: PeteMusic
 - PZN PZM: PeteZah-Next PeteMusic
+- PC: PeteChat
 - LS: LightSpeed
 - GG: GoGuardian
 - UV: Ultravioet
