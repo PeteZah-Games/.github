@@ -32,3 +32,5 @@ A minimal single html version of our website containing just our games served on
 - UV: Ultravioet
 - SJ: Scramjet
 - TN: Titanium Network
+- FB: FeedBase
+- CLF: Changelogify
