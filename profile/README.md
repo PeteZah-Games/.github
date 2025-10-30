@@ -6,7 +6,7 @@ This organization holds all of the repositories for the PeteZah Games [website](
 ## Our Projects
 
 ### [PeteZahGames](https://github.com/PeteZah-Games/PeteZahGames)
-The world's most advanced proxy website. We hold 150+ games, a proxy ehich has become so well used that we've expanded to three servers and our own AI chatbot and music playet
+The world's most advanced proxy website. We hold 1000+ games, a proxy which has become so well used that we've expanded to three servers and our own AI chatbot and music player
 
 ### [PeteZah (Discord Bot)](https://github.com/PeteZah-Games/PeteZahBot)
 PeteZah is our in-house developed all-purpose Discord Bot. We use it for a variety of services in our Discord Server.
