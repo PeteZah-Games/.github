@@ -1,7 +1,7 @@
 # What is this?
 This organization holds all of the repositories for the PeteZah Games [website](https://petezahgames.com/) and associated projects.
 
-[![Discord](https://img.shields.io/discord/1337108365591187640?style=social&label=discord)](https://discord.gg/arcgZTV9zX) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVp4q4h6vMgm94pBcnbHFog)](https://www.youtube.com/@petezahgames) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/PeteZahGames)](https://x.com/petezahgames) <a href="https://ko-fi.com/petezahgames"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0171bfb928b21a7e00_support_me_on_kofi_beige.png" height=22px></a>
+[![Discord](https://img.shields.io/discord/1337108365591187640?style=social&label=discord)](https://discord.gg/arcgZTV9zX) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVp4q4h6vMgm94pBcnbHFog)](https://www.youtube.com/@petezahgames) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/PeteZahGames)](https://x.com/petezahgames) ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061/petezahgames?style=social&label=Support%20us&logo=ko-fi&logoColor=red)
 
 ## Our Projects
 
