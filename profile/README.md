@@ -1,6 +1,3 @@
-# Socials
-[![Discord](https://img.shields.io/discord/1337108365591187640?style=social&label=discord)](https://discord.gg/arcgZTV9zX) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVp4q4h6vMgm94pBcnbHFog)](https://www.youtube.com/@petezahgames) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/PeteZahGames)](https://x.com/petezahgames) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061/petezahgames?style=social&label=Support%20us&logo=ko-fi&logoColor=red)](https://ko-fi.com/petezahgames)
-
 ## Our Projects
 
 ### [PeteZahGames](https://github.com/PeteZah-Games/PeteZahGames)
@@ -13,11 +10,18 @@ PeteZah is our in-house developed all-purpose Discord Bot. We use it for a varie
 The next generation of PeteZahGames, PZN is made using the cutting-edge framework Next.JS. Once completed, it will have more exciting features and a cleaner UI. Despiote not having full proxy functionality, PZN is still some peoples' choice over PZG because of its optimizations, never-before-seen security features like a rotating password, and user interface.
 
 ### [PeteZah-Next (Discord Bot)](https://github.com/PeteZah-Games/PeteZah-Next-Password-Bot)
-To aid people with accessing PeteZah-Next, we created a Discord bot which can be accessed in our [Discord server](https://discord.gg/cYjHFDguxS). If you run our bot's `/password` command, it will provide you with the most recent PeteZah-Next password, which you can enter into the `input` field on the PZN homepage, which is disguised as a unit convertor.
+To aid people with accessing PeteZah-Next, we created a Discord bot which can be accessed in our [Discord server](https://discord.gg/unrestricted). If you run our bot's `/password` command, it will provide you with the most recent PeteZah-Next password, which you can enter into the `input` field on the PZN homepage, which is disguised as a unit convertor.
+
 ### [PeteZahLite](https://github.com/PeteZah-Games/PeteZahLite)
 A minimal single html version of our website containing just our games served on jsdelivr
 
-
+<a href="https://ko-fi.com/petezahgames">
+  <img
+    src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a010d6b437c09864f24_support_me_on_kofi_badge_dark.png"
+    alt="Support us on Ko-fi"
+    height="120"
+  />
+</a>
 
 ## Common terms:
 - PZG: PeteZahGames
